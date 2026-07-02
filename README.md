@@ -27,7 +27,7 @@ The project follows a complete data analytics workflow, including data cleaning,
 - Business Insights & Recommendations
 
  ## Dashboard
- ![Retail Customer Behavior Dashboard](customer.png)
+ ![Dashboard](customer.png)
 
 ## Key Skills
 
