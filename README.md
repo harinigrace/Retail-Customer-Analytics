@@ -27,7 +27,7 @@ The project follows a complete data analytics workflow, including data cleaning,
 - Business Insights & Recommendations
 
  ## Dashboard
- ![Dashboard](customer.png)
+![Dashboard](Images/Customer%20Dashboard.png)
 
 ## Key Skills
 
